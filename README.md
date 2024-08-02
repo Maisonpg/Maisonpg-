@@ -1,6 +1,6 @@
 ### bem vindo ao meu perfil
 
-me chamo maison pedroso
+me chamo maison pedroso 💀
 
 - estou estudando no alura
 - estou me desenvolvendo na linguagem javascript
@@ -8,6 +8,6 @@ me chamo maison pedroso
 
   ### você pode entrar em contato comigo pelos contatos abaixo
 
-  e-mail: maison.gueleri@escola.pr.gov.br
+  e-mail: maison.gueleri@escola.pr.gov.br 📪
   
   instagram: @maisonpedroso
